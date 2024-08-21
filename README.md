@@ -98,8 +98,6 @@
 
 *   [qiin2333/Sunshine](https://github.com/qiin2333/Sunshine) - Sunshine is a Gamestream host for Moonlight.
 
-*   [openswoole/ext-openswoole](https://github.com/openswoole/ext-openswoole) - Programmatic server for PHP with async IO, coroutines and fibers
-
 *   [tindy2013/subconverter](https://github.com/tindy2013/subconverter) - Utility to convert between various subscription format
 
 ## PHP
@@ -133,6 +131,8 @@
 *   [hacs/integration](https://github.com/hacs/integration) - HACS gives you a powerful UI to handle downloads of all your custom needs.
 
 *   [Womsxd/AutoMihoyoBBS](https://github.com/Womsxd/AutoMihoyoBBS) - 米游社自动签到，支持：崩坏二、崩坏三、原神、未定事件簿，米游币自动获取
+
+*   [hunshcn/gh-proxy](https://github.com/hunshcn/gh-proxy) - github release、archive以及项目文件的加速项目
 
 ## Shell
 
