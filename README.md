@@ -10,11 +10,11 @@
 
 ## Table of Contents
 
+*   [JavaScript](#javascript)
 *   [CSS](#css)
 *   [Vue](#vue)
 *   [Go](#go)
 *   [TypeScript](#typescript)
-*   [JavaScript](#javascript)
 *   [C++](#c)
 *   [PHP](#php)
 *   [Python](#python)
@@ -29,6 +29,46 @@
 *   [Kotlin](#kotlin)
 *   [C#](#c-2)
 *   [Jupyter Notebook](#jupyter-notebook)
+
+## JavaScript
+
+*   [Archeb/pplx-proxy](https://github.com/Archeb/pplx-proxy) -
+
+*   [vernesong/OpenClash](https://github.com/vernesong/OpenClash) - A Clash Client For OpenWrt
+
+*   [maboloshi/github-chinese](https://github.com/maboloshi/github-chinese) - GitHub 汉化插件，GitHub 中文化界面。 (GitHub Translation To Chinese)
+
+*   [blackmatrix7/ios\_rule\_script](https://github.com/blackmatrix7/ios_rule_script) - 分流规则、重写写规则及脚本。
+
+*   [anuraghazra/github-readme-stats](https://github.com/anuraghazra/github-readme-stats) - :zap: Dynamically generated stats for your github readmes
+
+*   [bia-pain-bache/BPB-Worker-Panel](https://github.com/bia-pain-bache/BPB-Worker-Panel) - A GUI Panel providing Worker subscriptions and Fragment settings and Warp configs, providing configs for cross-platform clients using (singbox-core and xray-core)
+
+*   [vogler/free-games-claimer](https://github.com/vogler/free-games-claimer) - Automatically claims free games on the Epic Games Store, Amazon Prime Gaming and GOG.
+
+*   [zzc10086/grocery\_store](https://github.com/zzc10086/grocery_store) -
+
+*   [catvod/CatVodOpen](https://github.com/catvod/CatVodOpen) - Open version of catvod.
+
+*   [cmliu/CF-Workers-docker.io](https://github.com/cmliu/CF-Workers-docker.io) - 这个项目是一个基于 Cloudflare Workers 的 Docker 镜像代理工具。它能够中转对 Docker 官方镜像仓库的请求，解决一些访问限制和加速访问的问题。
+
+*   [TomyJan/Yunzai-Kuro-Plugin](https://github.com/TomyJan/Yunzai-Kuro-Plugin) - 一个库洛游戏 (战双&鸣潮) 的插件，适用于云崽Bot。 | A Plugin of Kuro Games(Punshining Gray Raven & Wuthering Waves), adapt to Yunzai-Bot.
+
+*   [yoimiya-kokomi/Miao-Yunzai](https://github.com/yoimiya-kokomi/Miao-Yunzai) - 喵版Yunzai-V3
+
+*   [MHSanaei/3x-ui](https://github.com/MHSanaei/3x-ui) - Xray panel supporting multi-protocol multi-user expire day & traffic & ip limit (Vmess & Vless & Trojan &  ShadowSocks & Wireguard)
+
+*   [6dylan6/jdpro](https://github.com/6dylan6/jdpro) -
+
+*   [hex-ci/smzdm\_script](https://github.com/hex-ci/smzdm_script) - smzdm 自用脚本 for 青龙面板，支持 App 端签到、转盘抽奖、每日任务等功能
+
+*   [haiibo/openwrt-packages](https://github.com/haiibo/openwrt-packages) - 常用 OpenWrt 软件包合集，定时自动更新，适用于 Lean 源码
+
+*   [stevenjoezhang/live2d-widget](https://github.com/stevenjoezhang/live2d-widget) - 把萌萌哒的看板娘抱回家 (ノ≧∇≦)ノ | Live2D widget for web platform
+
+*   [xiaoxinpro/nginx-proxy-manager-zh](https://github.com/xiaoxinpro/nginx-proxy-manager-zh) - 基于nginx-proxy-manager翻译的中文版本
+
+*   [iptv-org/iptv](https://github.com/iptv-org/iptv) - Collection of publicly available IPTV channels from all over the world
 
 ## CSS
 
@@ -89,44 +129,6 @@
 *   [gaozhangmin/aliyunpan](https://github.com/gaozhangmin/aliyunpan) - 小白羊网盘 - Powered by 阿里云盘。
 
 *   [whyour/qinglong](https://github.com/whyour/qinglong) - 支持 Python3、JavaScript、Shell、Typescript 的定时任务管理平台（Timed task management platform supporting Python3, JavaScript, Shell, Typescript）
-
-## JavaScript
-
-*   [vernesong/OpenClash](https://github.com/vernesong/OpenClash) - A Clash Client For OpenWrt
-
-*   [maboloshi/github-chinese](https://github.com/maboloshi/github-chinese) - GitHub 汉化插件，GitHub 中文化界面。 (GitHub Translation To Chinese)
-
-*   [blackmatrix7/ios\_rule\_script](https://github.com/blackmatrix7/ios_rule_script) - 分流规则、重写写规则及脚本。
-
-*   [anuraghazra/github-readme-stats](https://github.com/anuraghazra/github-readme-stats) - :zap: Dynamically generated stats for your github readmes
-
-*   [bia-pain-bache/BPB-Worker-Panel](https://github.com/bia-pain-bache/BPB-Worker-Panel) - A GUI Panel providing Worker subscriptions and Fragment settings and Warp configs, providing configs for cross-platform clients using (singbox-core and xray-core)
-
-*   [vogler/free-games-claimer](https://github.com/vogler/free-games-claimer) - Automatically claims free games on the Epic Games Store, Amazon Prime Gaming and GOG.
-
-*   [zzc10086/grocery\_store](https://github.com/zzc10086/grocery_store) -
-
-*   [catvod/CatVodOpen](https://github.com/catvod/CatVodOpen) - Open version of catvod.
-
-*   [cmliu/CF-Workers-docker.io](https://github.com/cmliu/CF-Workers-docker.io) - 这个项目是一个基于 Cloudflare Workers 的 Docker 镜像代理工具。它能够中转对 Docker 官方镜像仓库的请求，解决一些访问限制和加速访问的问题。
-
-*   [TomyJan/Yunzai-Kuro-Plugin](https://github.com/TomyJan/Yunzai-Kuro-Plugin) - 一个库洛游戏 (战双&鸣潮) 的插件，适用于云崽Bot。 | A Plugin of Kuro Games(Punshining Gray Raven & Wuthering Waves), adapt to Yunzai-Bot.
-
-*   [yoimiya-kokomi/Miao-Yunzai](https://github.com/yoimiya-kokomi/Miao-Yunzai) - 喵版Yunzai-V3
-
-*   [MHSanaei/3x-ui](https://github.com/MHSanaei/3x-ui) - Xray panel supporting multi-protocol multi-user expire day & traffic & ip limit (Vmess & Vless & Trojan &  ShadowSocks & Wireguard)
-
-*   [6dylan6/jdpro](https://github.com/6dylan6/jdpro) -
-
-*   [hex-ci/smzdm\_script](https://github.com/hex-ci/smzdm_script) - smzdm 自用脚本 for 青龙面板，支持 App 端签到、转盘抽奖、每日任务等功能
-
-*   [haiibo/openwrt-packages](https://github.com/haiibo/openwrt-packages) - 常用 OpenWrt 软件包合集，定时自动更新，适用于 Lean 源码
-
-*   [stevenjoezhang/live2d-widget](https://github.com/stevenjoezhang/live2d-widget) - 把萌萌哒的看板娘抱回家 (ノ≧∇≦)ノ | Live2D widget for web platform
-
-*   [xiaoxinpro/nginx-proxy-manager-zh](https://github.com/xiaoxinpro/nginx-proxy-manager-zh) - 基于nginx-proxy-manager翻译的中文版本
-
-*   [iptv-org/iptv](https://github.com/iptv-org/iptv) - Collection of publicly available IPTV channels from all over the world
 
 ## C++
 
@@ -261,8 +263,6 @@
 *   [BartoszCichecki/LenovoLegionToolkit](https://github.com/BartoszCichecki/LenovoLegionToolkit) - Lightweight Lenovo Vantage and Hotkeys replacement for Lenovo Legion laptops.
 
 *   [2dust/v2rayN](https://github.com/2dust/v2rayN) - A GUI client for Windows, support Xray core and v2fly core and others
-
-*   [jie65535/GrasscutterCommandGenerator](https://github.com/jie65535/GrasscutterCommandGenerator) - Command Generator and Gacha Banner Editor
 
 ## Jupyter Notebook
 
