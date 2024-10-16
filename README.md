@@ -98,7 +98,7 @@
 
 *   [docker/compose](https://github.com/docker/compose) - Define and run multi-container applications with Docker
 
-*   [alist-org/alist](https://github.com/alist-org/alist) - 🗂️A file list/WebDAV program that supports multiple storages, powered by Gin and Solidjs. / 一个支持多存储的文件列表/WebDAV程序，使用 Gin 和 Solidjs。
+*   [AlistGo/alist](https://github.com/AlistGo/alist) - 🗂️A file list/WebDAV program that supports multiple storages, powered by Gin and Solidjs. / 一个支持多存储的文件列表/WebDAV程序，使用 Gin 和 Solidjs。
 
 ## TypeScript
 
@@ -132,7 +132,7 @@
 
 ## C++
 
-*   [qiin2333/Sunshine](https://github.com/qiin2333/Sunshine) - Sunshine is a Gamestream host for Moonlight.
+*   [qiin2333/Sunshine-Foundation](https://github.com/qiin2333/Sunshine-Foundation) - Sunshine is a Gamestream host for Moonlight.
 
 *   [tindy2013/subconverter](https://github.com/tindy2013/subconverter) - Utility to convert between various subscription format
 
