@@ -10,8 +10,8 @@
 
 ## Table of Contents
 
-*   [JavaScript](#javascript)
 *   [Vue](#vue)
+*   [JavaScript](#javascript)
 *   [Go](#go)
 *   [TypeScript](#typescript)
 *   [C++](#c)
@@ -29,6 +29,14 @@
 *   [Kotlin](#kotlin)
 *   [C#](#c-2)
 *   [Jupyter Notebook](#jupyter-notebook)
+
+## Vue
+
+*   [dlzmoe/linuxdo-scripts](https://github.com/dlzmoe/linuxdo-scripts) - LinuxDo Scripts 扩展，功能持续更新，欢迎提出新想法！已上架 Chrome Web Store 和 Firefox 商店!
+
+*   [hslr-s/sun-panel](https://github.com/hslr-s/sun-panel) - A server, NAS navigation panel, Homepage, browser homepage. | 一个服务器、NAS导航面板、Homepage、浏览器首页。
+
+*   [CareyWang/sub-web](https://github.com/CareyWang/sub-web) -
 
 ## JavaScript
 
@@ -69,12 +77,6 @@
 *   [xiaoxinpro/nginx-proxy-manager-zh](https://github.com/xiaoxinpro/nginx-proxy-manager-zh) - 基于nginx-proxy-manager翻译的中文版本
 
 *   [iptv-org/iptv](https://github.com/iptv-org/iptv) - Collection of publicly available IPTV channels from all over the world
-
-## Vue
-
-*   [hslr-s/sun-panel](https://github.com/hslr-s/sun-panel) - A server, NAS navigation panel, Homepage, browser homepage. | 一个服务器、NAS导航面板、Homepage、浏览器首页。
-
-*   [CareyWang/sub-web](https://github.com/CareyWang/sub-web) -
 
 ## Go
 
@@ -157,8 +159,6 @@
 *   [hacs/integration](https://github.com/hacs/integration) - HACS gives you a powerful UI to handle downloads of all your custom needs.
 
 *   [Womsxd/AutoMihoyoBBS](https://github.com/Womsxd/AutoMihoyoBBS) - 米游社自动签到，支持：崩坏二、崩坏三、原神、未定事件簿，米游币自动获取
-
-*   [hunshcn/gh-proxy](https://github.com/hunshcn/gh-proxy) - github release、archive以及项目文件的加速项目
 
 ## Shell
 
