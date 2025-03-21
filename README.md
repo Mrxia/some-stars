@@ -10,8 +10,9 @@
 
 ## Table of Contents
 
-*   [Vue](#vue)
 *   [TypeScript](#typescript)
+*   [miscellaneous](#miscellaneous)
+*   [Vue](#vue)
 *   [Python](#python)
 *   [Batchfile](#batchfile)
 *   [Go](#go)
@@ -20,7 +21,6 @@
 *   [Shell](#shell)
 *   [C++](#c)
 *   [PHP](#php)
-*   [miscellaneous](#miscellaneous)
 *   [CSS](#css)
 *   [C](#c-1)
 *   [Rust](#rust)
@@ -29,19 +29,10 @@
 *   [HTML](#html)
 *   [Kotlin](#kotlin)
 *   [C#](#c-2)
-*   [Jupyter Notebook](#jupyter-notebook)
-
-## Vue
-
-*   [madrays/sun-panel-helper](https://github.com/madrays/sun-panel-helper) - 为hslr-s/sun-panel开发的一个一键快捷美化的小项目~
-
-*   [dlzmoe/linuxdo-scripts](https://github.com/dlzmoe/linuxdo-scripts) - LinuxDo Scripts 扩展，功能持续更新，欢迎提出新想法！已上架 Chrome Web Store 和 Firefox 商店!
-
-*   [hslr-s/sun-panel](https://github.com/hslr-s/sun-panel) - A server, NAS navigation panel, Homepage, browser homepage. | 一个服务器、NAS导航面板、Homepage、浏览器首页。
-
-*   [CareyWang/sub-web](https://github.com/CareyWang/sub-web) -
 
 ## TypeScript
+
+*   [RSSNext/Follow](https://github.com/RSSNext/Follow) - 🧡 Follow everything in one place
 
 *   [ourongxing/newsnow](https://github.com/ourongxing/newsnow) - Elegant reading of real-time and hottest news
 
@@ -69,7 +60,33 @@
 
 *   [clash-verge-rev/clash-verge-rev](https://github.com/clash-verge-rev/clash-verge-rev) - A modern GUI client based on Tauri, designed to run in Windows, macOS and Linux for tailored proxy experience
 
-*   [gaozhangmin/aliyunpan](https://github.com/gaozhangmin/aliyunpan) - 小白羊网盘 - Powered by 阿里云盘。
+## miscellaneous
+
+*   [weekend-project-space/top-rss-list](https://github.com/weekend-project-space/top-rss-list) - 订阅人数最多的rss源，中文优质rss源
+
+*   [ACL4SSR/ACL4SSR](https://github.com/ACL4SSR/ACL4SSR) - SSR 去广告ACL规则/SS完整GFWList规则/Clash规则碎片，Telegram频道订阅地址
+
+*   [DeSireFire/animeTrackerList](https://github.com/DeSireFire/animeTrackerList) - 动漫磁性链接加速方案（animeTrackerList）
+
+*   [ngosang/trackerslist](https://github.com/ngosang/trackerslist) - Updated list of public BitTorrent trackers
+
+*   [zhuima/awesome-cloudflare](https://github.com/zhuima/awesome-cloudflare) - ⛅️ 精选的 Cloudflare 工具、开源项目、指南、博客和其他资源列表。/ ⛅️ A curated list of Cloudflare tools, open source projects, guides, blogs and other resources.
+
+*   [Agr-Reader/Agr-Reader](https://github.com/Agr-Reader/Agr-Reader) -
+
+*   [chhc007/OneClickXiaoai](https://github.com/chhc007/OneClickXiaoai) - exe一键快速唤醒PC版小爱同学
+
+*   [diana7127/mpv.net-DW](https://github.com/diana7127/mpv.net-DW) - mpv.net\_CM的DW版本，定制了播放界面、右键菜单、缩略图、视频滤镜和着色器
+
+## Vue
+
+*   [madrays/sun-panel-helper](https://github.com/madrays/sun-panel-helper) - 为hslr-s/sun-panel开发的一个一键快捷美化的小项目~
+
+*   [dlzmoe/linuxdo-scripts](https://github.com/dlzmoe/linuxdo-scripts) - LinuxDo Scripts 扩展，功能持续更新，欢迎提出新想法！已上架 Chrome Web Store 和 Firefox 商店!
+
+*   [hslr-s/sun-panel](https://github.com/hslr-s/sun-panel) - A server, NAS navigation panel, Homepage, browser homepage. | 一个服务器、NAS导航面板、Homepage、浏览器首页。
+
+*   [CareyWang/sub-web](https://github.com/CareyWang/sub-web) -
 
 ## Python
 
@@ -197,22 +214,6 @@
 
 *   [Rudloff/alltube](https://github.com/Rudloff/alltube) - Web GUI for youtube-dl
 
-## miscellaneous
-
-*   [ACL4SSR/ACL4SSR](https://github.com/ACL4SSR/ACL4SSR) - SSR 去广告ACL规则/SS完整GFWList规则/Clash规则碎片，Telegram频道订阅地址
-
-*   [DeSireFire/animeTrackerList](https://github.com/DeSireFire/animeTrackerList) - 动漫磁性链接加速方案（animeTrackerList）
-
-*   [ngosang/trackerslist](https://github.com/ngosang/trackerslist) - Updated list of public BitTorrent trackers
-
-*   [zhuima/awesome-cloudflare](https://github.com/zhuima/awesome-cloudflare) - ⛅️ 精选的 Cloudflare 工具、开源项目、指南、博客和其他资源列表。/ ⛅️ A curated list of Cloudflare tools, open source projects, guides, blogs and other resources.
-
-*   [Agr-Reader/Agr-Reader](https://github.com/Agr-Reader/Agr-Reader) -
-
-*   [chhc007/OneClickXiaoai](https://github.com/chhc007/OneClickXiaoai) - exe一键快速唤醒PC版小爱同学
-
-*   [diana7127/mpv.net-DW](https://github.com/diana7127/mpv.net-DW) - mpv.net\_CM的DW版本，定制了播放界面、右键菜单、缩略图、视频滤镜和着色器
-
 ## CSS
 
 *   [HappySimple/Typora-theme-Happysimple](https://github.com/HappySimple/Typora-theme-Happysimple) - 一款自制的Markdown主题！
@@ -266,7 +267,3 @@
 *   [BartoszCichecki/LenovoLegionToolkit](https://github.com/BartoszCichecki/LenovoLegionToolkit) - Lightweight Lenovo Vantage and Hotkeys replacement for Lenovo Legion laptops.
 
 *   [2dust/v2rayN](https://github.com/2dust/v2rayN) - A GUI client for Windows, Linux and macOS, support Xray and sing-box and others
-
-## Jupyter Notebook
-
-*   [bloc97/Anime4K](https://github.com/bloc97/Anime4K) - A High-Quality Real Time Upscaler for Anime Video
