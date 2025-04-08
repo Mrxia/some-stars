@@ -10,6 +10,7 @@
 
 ## Table of Contents
 
+*   [Go](#go)
 *   [Dockerfile](#dockerfile)
 *   [C](#c)
 *   [Vue](#vue)
@@ -20,7 +21,6 @@
 *   [Dart](#dart)
 *   [JavaScript](#javascript)
 *   [Shell](#shell)
-*   [Go](#go)
 *   [C++](#c-1)
 *   [PHP](#php)
 *   [CSS](#css)
@@ -30,6 +30,20 @@
 *   [HTML](#html)
 *   [Kotlin](#kotlin)
 *   [C#](#c-2)
+
+## Go
+
+*   [usememos/memos](https://github.com/usememos/memos) - An open-source, lightweight note-taking solution. The pain-less way to create your meaningful notes. Your Notes, Your Way.
+
+*   [AdguardTeam/AdGuardHome](https://github.com/AdguardTeam/AdGuardHome) - Network-wide ads & trackers blocking DNS server
+
+*   [Calcium-Ion/new-api](https://github.com/Calcium-Ion/new-api) - AI模型接口管理与分发系统，支持将多种大模型转为统一格式调用，支持OpenAI、Claude等格式，可供个人或者企业内部管理与分发渠道使用，本项目基于One API二次开发。🍥 The next-generation LLM gateway and AI asset management system supports multiple languages.
+
+*   [fatedier/frp](https://github.com/fatedier/frp) - A fast reverse proxy to help you expose a local server behind a NAT or firewall to the internet.
+
+*   [XIU2/CloudflareSpeedTest](https://github.com/XIU2/CloudflareSpeedTest) - 🌩「自选优选 IP」测试 Cloudflare CDN 延迟和速度，获取最快 IP ！当然也支持其他 CDN / 网站 IP ~
+
+*   [docker/compose](https://github.com/docker/compose) - Define and run multi-container applications with Docker
 
 ## Dockerfile
 
@@ -135,8 +149,6 @@
 
 *   [chhc007/OneClickXiaoai](https://github.com/chhc007/OneClickXiaoai) - exe一键快速唤醒PC版小爱同学
 
-*   [diana7127/mpv.net-DW](https://github.com/diana7127/mpv.net-DW) - mpv.net\_CM的DW版本，定制了播放界面、右键菜单、缩略图、视频滤镜和着色器
-
 ## Batchfile
 
 *   [massgravel/Microsoft-Activation-Scripts](https://github.com/massgravel/Microsoft-Activation-Scripts) - Open-source Windows and Office activator featuring HWID, Ohook, TSforge, KMS38, and Online KMS activation methods, along with advanced troubleshooting.
@@ -161,7 +173,7 @@
 
 *   [sudojia/AutoTaskScript](https://github.com/sudojia/AutoTaskScript) - 自动化任务脚本助手，支持青龙面板及 Docker 部署
 
-*   [CherryHQ/cherry-studio](https://github.com/CherryHQ/cherry-studio) - 🍒 Cherry Studio is a desktop client that supports for multiple LLM providers. Support deepseek-r1
+*   [CherryHQ/cherry-studio](https://github.com/CherryHQ/cherry-studio) - 🍒 Cherry Studio is a desktop client that supports for multiple LLM providers.
 
 *   [tech-shrimp/gemini-playground](https://github.com/tech-shrimp/gemini-playground) - Deploy a Gemini multimodal chat website in 10 seconds, Severless!         只需准备一个Gemini API Key，10秒即可部署一个Gemini多模态对话的网站。
 
@@ -208,18 +220,6 @@
 *   [P3TERX/Actions-OpenWrt](https://github.com/P3TERX/Actions-OpenWrt) - A template for building OpenWrt with GitHub Actions | 使用 GitHub Actions 在线云编译 OpenWrt 固件
 
 *   [mack-a/v2ray-agent](https://github.com/mack-a/v2ray-agent) - Xray、Tuic、hysteria2、sing-box 八合一一键脚本
-
-## Go
-
-*   [AdguardTeam/AdGuardHome](https://github.com/AdguardTeam/AdGuardHome) - Network-wide ads & trackers blocking DNS server
-
-*   [Calcium-Ion/new-api](https://github.com/Calcium-Ion/new-api) - AI模型接口管理与分发系统，支持将多种大模型转为统一格式调用，支持OpenAI、Claude等格式，可供个人或者企业内部管理与分发渠道使用，本项目基于One API二次开发。🍥 The next-generation LLM gateway and AI asset management system supports multiple languages.
-
-*   [fatedier/frp](https://github.com/fatedier/frp) - A fast reverse proxy to help you expose a local server behind a NAT or firewall to the internet.
-
-*   [XIU2/CloudflareSpeedTest](https://github.com/XIU2/CloudflareSpeedTest) - 🌩「自选优选 IP」测试 Cloudflare CDN 延迟和速度，获取最快 IP ！当然也支持其他 CDN / 网站 IP ~
-
-*   [docker/compose](https://github.com/docker/compose) - Define and run multi-container applications with Docker
 
 ## C++
 
