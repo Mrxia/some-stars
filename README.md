@@ -10,6 +10,7 @@
 
 ## Table of Contents
 
+*   [Dart](#dart)
 *   [TypeScript](#typescript)
 *   [Kotlin](#kotlin)
 *   [JavaScript](#javascript)
@@ -20,7 +21,6 @@
 *   [Python](#python)
 *   [miscellaneous](#miscellaneous)
 *   [Batchfile](#batchfile)
-*   [Dart](#dart)
 *   [Shell](#shell)
 *   [C++](#c-1)
 *   [PHP](#php)
@@ -30,6 +30,20 @@
 *   [Java](#java)
 *   [HTML](#html)
 *   [C#](#c-2)
+
+## Dart
+
+*   [KaringX/clashmi](https://github.com/KaringX/clashmi) - Clash Mihomo for iOS/Android
+
+*   [R-lz/LINUX-DO](https://github.com/R-lz/LINUX-DO) - 一个简单的L站的移动端
+
+*   [chen08209/FlClash](https://github.com/chen08209/FlClash) - A multi-platform proxy client based on ClashMeta,simple and easy to use, open-source and ad-free.
+
+*   [Kuingsmile/PicHoro](https://github.com/Kuingsmile/PicHoro) - 一款手机端云存储平台/图床管理和文件上传/下载工具，支持直接管理Webdav，Alist，SSH/SFTP，云服务器，兼容S3 API的平台，腾讯COS，阿里OSS，七牛云，又拍云，兰空图床，Imgur，SM.MS和github
+
+*   [lollipopkit/flutter\_server\_box](https://github.com/lollipopkit/flutter_server_box) - ServerBox - server status & toolbox
+
+*   [xiaoyaocz/dart\_simple\_live](https://github.com/xiaoyaocz/dart_simple_live) - 简简单单的看直播
 
 ## TypeScript
 
@@ -195,25 +209,13 @@
 
 *   [zhuima/awesome-cloudflare](https://github.com/zhuima/awesome-cloudflare) - ⛅️ 精选的 Cloudflare 工具、开源项目、指南、博客和其他资源列表。/ ⛅️ A curated list of Cloudflare tools, open source projects, guides, blogs and other resources.
 
-*   [Agr-Reader/Agr-Reader](https://github.com/Agr-Reader/Agr-Reader) -
+*   [Agr-Reader/Agr-Reader](https://github.com/Agr-Reader/Agr-Reader) - Agr Reader is a simple yet elegant and powerful RSS reader for Android, featuring the Material You design style.
 
 *   [chhc007/OneClickXiaoai](https://github.com/chhc007/OneClickXiaoai) - exe一键快速唤醒PC版小爱同学
 
 ## Batchfile
 
 *   [massgravel/Microsoft-Activation-Scripts](https://github.com/massgravel/Microsoft-Activation-Scripts) - Open-source Windows and Office activator featuring HWID, Ohook, TSforge, KMS38, and Online KMS activation methods, along with advanced troubleshooting.
-
-## Dart
-
-*   [R-lz/LINUX-DO](https://github.com/R-lz/LINUX-DO) - 一个简单的L站的移动端
-
-*   [chen08209/FlClash](https://github.com/chen08209/FlClash) - A multi-platform proxy client based on ClashMeta,simple and easy to use, open-source and ad-free.
-
-*   [Kuingsmile/PicHoro](https://github.com/Kuingsmile/PicHoro) - 一款手机端云存储平台/图床管理和文件上传/下载工具，支持直接管理Webdav，Alist，SSH/SFTP，云服务器，兼容S3 API的平台，腾讯COS，阿里OSS，七牛云，又拍云，兰空图床，Imgur，SM.MS和github
-
-*   [lollipopkit/flutter\_server\_box](https://github.com/lollipopkit/flutter_server_box) - ServerBox - server status & toolbox
-
-*   [xiaoyaocz/dart\_simple\_live](https://github.com/xiaoyaocz/dart_simple_live) - 简简单单的看直播
 
 ## Shell
 
@@ -244,8 +246,6 @@
 *   [HappySimple/Typora-theme-Happysimple](https://github.com/HappySimple/Typora-theme-Happysimple) - 一款自制的Markdown主题！
 
 *   [LIlGG/halo-theme-sakura](https://github.com/LIlGG/halo-theme-sakura) - Halo 版本的樱花🌸主题
-
-*   [dhjddcn/halo-theme-butterfly](https://github.com/dhjddcn/halo-theme-butterfly) - 一个Halo博客主题，Butterfly 🦋
 
 ## Rust
 
