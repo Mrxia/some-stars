@@ -10,6 +10,7 @@
 
 ## Table of Contents
 
+*   [Python](#python)
 *   [Dart](#dart)
 *   [TypeScript](#typescript)
 *   [Kotlin](#kotlin)
@@ -18,7 +19,6 @@
 *   [Dockerfile](#dockerfile)
 *   [C](#c)
 *   [Vue](#vue)
-*   [Python](#python)
 *   [miscellaneous](#miscellaneous)
 *   [Batchfile](#batchfile)
 *   [Shell](#shell)
@@ -31,11 +31,37 @@
 *   [HTML](#html)
 *   [C#](#c-2)
 
+## Python
+
+*   [ok-oldking/ok-wuthering-waves](https://github.com/ok-oldking/ok-wuthering-waves) - 鸣潮 后台自动战斗 自动刷声骸 一键日常  Automation for Wuthering Waves
+
+*   [hect0x7/JMComic-APK](https://github.com/hect0x7/JMComic-APK) - 防迷路 | 禁漫天堂APK | 禁漫APP安卓安装包 | jm天堂 | GitHub Actions
+
+*   [jingyaogong/minimind](https://github.com/jingyaogong/minimind) - 🚀🚀 「大模型」2小时完全从0训练26M的小参数GPT！🌏 Train a 26M-parameter GPT from scratch in just 2h!
+
+*   [jxxghp/MoviePilot](https://github.com/jxxghp/MoviePilot) - NAS媒体库自动化管理工具
+
+*   [linbailo/zyqinglong](https://github.com/linbailo/zyqinglong) - 青龙面板脚本自用库薅羊毛（mt论坛、美团、滴滴出行领券/滴滴加油领券/滴滴代驾领券/滴滴签到领券打卡、滴滴果园、饿了么、得物、顺丰、霸王茶姬、益禾堂、塔斯汀）
+
+*   [binary-husky/gpt\_academic](https://github.com/binary-husky/gpt_academic) - 为GPT/GLM等LLM大语言模型提供实用化交互接口，特别优化论文阅读/润色/写作体验，模块化设计，支持自定义快捷按钮&函数插件，支持Python和C++等项目剖析&自译解功能，PDF/LaTex论文翻译&总结功能，支持并行问询多种LLM模型，支持chatglm3等本地模型。接入通义千问, deepseekcoder, 讯飞星火, 文心一言, llama2, rwkv, claude2, moss等。
+
+*   [RockChinQ/LangBot](https://github.com/RockChinQ/LangBot) - 🤩 IM bot platform designed for the LLM era / 简单易用的大模型即时通信机器人平台 ⚡️ 适配 QQ / 微信（企业微信、个人微信）/ 飞书 / 钉钉 / Discord / Telegram / Slack 等平台 🧩 支持 ChatGPT、DeepSeek、Dify、Claude、Google Gemini、xAI、PPIO、Ollama、阿里云百炼、SiliconFlow、Qwen、Moonshot、SillyTraven、MCP、WeClone 等 LLM & Agent
+
+*   [MetaCubeX/mihomo](https://github.com/MetaCubeX/mihomo) - A simple Python Pydantic model for Honkai: Star Rail parsed data from the Mihomo API.
+
+*   [jianchang512/pyvideotrans](https://github.com/jianchang512/pyvideotrans) - Translate the video from one language to another and add dubbing.         将视频从一种语言翻译为另一种语言，同时支持语音识别转录、语音合成、字幕翻译。
+
+*   [zhayujie/chatgpt-on-wechat](https://github.com/zhayujie/chatgpt-on-wechat) - 基于大模型搭建的聊天机器人，同时支持 微信公众号、企业微信应用、飞书、钉钉 等接入，可选择GPT4.1/GPT-4o/GPT-o1/ DeepSeek/Claude/文心一言/讯飞星火/通义千问/ Gemini/GLM-4/Kimi/LinkAI，能处理文本、语音和图片，访问操作系统和互联网，支持基于自有知识库进行定制企业智能客服。
+
+*   [Sitoi/dailycheckin](https://github.com/Sitoi/dailycheckin) - 基于「Docker」/「青龙面板」/「群晖」的每日签到脚本（支持多账号）签到列表: ｜爱奇艺｜全民K歌｜有道云笔记｜百度贴吧｜Bilibili｜V2EX｜AcFun｜什么值得买｜阿里云盘｜i茅台申购｜小米运动｜百度搜索资源平台｜恩山论坛｜奥拉星｜
+
+*   [8680/GOODBYEADS](https://github.com/8680/GOODBYEADS) - 适用于AdGuard、Quantumult X、SmartDNS的去广告规则，合并优质上游规则并去重整理排列。
+
+*   [BlueSkyXN/AdGuardHomeRules](https://github.com/BlueSkyXN/AdGuardHomeRules) - 高达百万级规则！由我原创&整理的 AdGuardHomeRules ADH广告拦截过滤规则！打造全网最强最全规则集
+
 ## Dart
 
 *   [KaringX/clashmi](https://github.com/KaringX/clashmi) - Clash Mihomo for iOS/Android
-
-*   [R-lz/LINUX-DO](https://github.com/R-lz/LINUX-DO) - 一个简单的L站的移动端
 
 *   [chen08209/FlClash](https://github.com/chen08209/FlClash) - A multi-platform proxy client based on ClashMeta,simple and easy to use, open-source and ad-free.
 
@@ -169,34 +195,6 @@
 
 *   [CareyWang/sub-web](https://github.com/CareyWang/sub-web) -
 
-## Python
-
-*   [suraxiuxiu/MoviePilot-Plugins](https://github.com/suraxiuxiu/MoviePilot-Plugins) - MoviePilot第三方插件
-
-*   [hect0x7/JMComic-APK](https://github.com/hect0x7/JMComic-APK) - 防迷路 | 禁漫天堂APK | 禁漫APP安卓安装包 | jm天堂 | GitHub Actions
-
-*   [jingyaogong/minimind](https://github.com/jingyaogong/minimind) - 🚀🚀 「大模型」2小时完全从0训练26M的小参数GPT！🌏 Train a 26M-parameter GPT from scratch in just 2h!
-
-*   [jxxghp/MoviePilot](https://github.com/jxxghp/MoviePilot) - NAS媒体库自动化管理工具
-
-*   [linbailo/zyqinglong](https://github.com/linbailo/zyqinglong) - 青龙面板脚本自用库薅羊毛（mt论坛、美团、滴滴出行领券/滴滴加油领券/滴滴代驾领券/滴滴签到领券打卡、滴滴果园、饿了么、得物、顺丰、霸王茶姬、益禾堂、塔斯汀）
-
-*   [binary-husky/gpt\_academic](https://github.com/binary-husky/gpt_academic) - 为GPT/GLM等LLM大语言模型提供实用化交互接口，特别优化论文阅读/润色/写作体验，模块化设计，支持自定义快捷按钮&函数插件，支持Python和C++等项目剖析&自译解功能，PDF/LaTex论文翻译&总结功能，支持并行问询多种LLM模型，支持chatglm3等本地模型。接入通义千问, deepseekcoder, 讯飞星火, 文心一言, llama2, rwkv, claude2, moss等。
-
-*   [RockChinQ/LangBot](https://github.com/RockChinQ/LangBot) - 🤩 IM bot platform designed for the LLM era / 简单易用的大模型即时通信机器人平台 ⚡️ 适配 QQ / 微信（企业微信、个人微信）/ 飞书 / 钉钉 / Discord / Telegram / Slack 等平台 🧩 支持 ChatGPT、DeepSeek、Dify、Claude、Google Gemini、xAI、PPIO、Ollama、阿里云百炼、SiliconFlow、Qwen、Moonshot、SillyTraven、MCP、WeClone 等 LLM & Agent
-
-*   [MetaCubeX/mihomo](https://github.com/MetaCubeX/mihomo) - A simple Python Pydantic model for Honkai: Star Rail parsed data from the Mihomo API.
-
-*   [jianchang512/pyvideotrans](https://github.com/jianchang512/pyvideotrans) - Translate the video from one language to another and add dubbing.         将视频从一种语言翻译为另一种语言，同时支持语音识别转录、语音合成、字幕翻译。
-
-*   [zhayujie/chatgpt-on-wechat](https://github.com/zhayujie/chatgpt-on-wechat) - 基于大模型搭建的聊天机器人，同时支持 微信公众号、企业微信应用、飞书、钉钉 等接入，可选择GPT4.1/GPT-4o/GPT-o1/ DeepSeek/Claude/文心一言/讯飞星火/通义千问/ Gemini/GLM-4/Kimi/LinkAI，能处理文本、语音和图片，访问操作系统和互联网，支持基于自有知识库进行定制企业智能客服。
-
-*   [Sitoi/dailycheckin](https://github.com/Sitoi/dailycheckin) - 基于「Docker」/「青龙面板」/「群晖」的每日签到脚本（支持多账号）签到列表: ｜爱奇艺｜全民K歌｜有道云笔记｜百度贴吧｜Bilibili｜V2EX｜AcFun｜什么值得买｜阿里云盘｜i茅台申购｜小米运动｜百度搜索资源平台｜恩山论坛｜奥拉星｜
-
-*   [8680/GOODBYEADS](https://github.com/8680/GOODBYEADS) - 适用于AdGuard、Quantumult X、SmartDNS的去广告规则，合并优质上游规则并去重整理排列。
-
-*   [BlueSkyXN/AdGuardHomeRules](https://github.com/BlueSkyXN/AdGuardHomeRules) - 高达百万级规则！由我原创&整理的 AdGuardHomeRules ADH广告拦截过滤规则！打造全网最强最全规则集
-
 ## miscellaneous
 
 *   [weekend-project-space/top-rss-list](https://github.com/weekend-project-space/top-rss-list) - 订阅人数最多的rss源，中文优质rss源
@@ -246,6 +244,8 @@
 *   [HappySimple/Typora-theme-Happysimple](https://github.com/HappySimple/Typora-theme-Happysimple) - 一款自制的Markdown主题！
 
 *   [LIlGG/halo-theme-sakura](https://github.com/LIlGG/halo-theme-sakura) - Halo 版本的樱花🌸主题
+
+*   [dhjddcn/halo-theme-butterfly](https://github.com/dhjddcn/halo-theme-butterfly) - 一个Halo博客主题，Butterfly 🦋
 
 ## Rust
 
