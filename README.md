@@ -17,15 +17,15 @@
 *   [JavaScript](#javascript)
 *   [Go](#go)
 *   [Dockerfile](#dockerfile)
-*   [C](#c)
+*   [Shell](#shell)
 *   [miscellaneous](#miscellaneous)
 *   [Vue](#vue)
 *   [Batchfile](#batchfile)
-*   [Shell](#shell)
 *   [HTML](#html)
-*   [C++](#c-1)
+*   [C++](#c)
 *   [PHP](#php)
 *   [CSS](#css)
+*   [C](#c-1)
 *   [Rust](#rust)
 *   [Blade](#blade)
 *   [Java](#java)
@@ -33,7 +33,7 @@
 
 ## TypeScript
 
-*   [senshinya/MoonTV](https://github.com/senshinya/MoonTV) - 一个开箱即用的、跨平台的影视聚合播放站。交流群：https://t.me/+K8GaaVx-xrc0YmVk
+*   [senshinya/MoonTV](https://github.com/senshinya/MoonTV) - 一个开箱即用的、跨平台的影视聚合播放站
 
 *   [google-gemini/gemini-cli](https://github.com/google-gemini/gemini-cli) - An open-source AI agent that brings the power of Gemini directly into your terminal.
 
@@ -59,7 +59,7 @@
 
 *   [Kuingsmile/PicList](https://github.com/Kuingsmile/PicList) - An image upload and manage tool, base on PicGo
 
-*   [MCSManager/MCSManager](https://github.com/MCSManager/MCSManager) - Quick deployment, distributed, multi-user, modern management panel for Minecraft and Steam game servers  /  快速部署，分布式架构，多用户出租，现代化的Minecraft和Steam游戏服务器管理面板
+*   [MCSManager/MCSManager](https://github.com/MCSManager/MCSManager) - Quick deployment, distributed, multi-user, modern management panel for Minecraft and Steam game servers  /  支持快速部署，分布式架构，多用户出租，现代化的 Minecraft 和 Steam 游戏服务器管理面板
 
 *   [DIYgod/RSSHub](https://github.com/DIYgod/RSSHub) - 🧡 Everything is RSSible
 
@@ -161,23 +161,21 @@
 
 *   [DDS-Derek/wxchat-Docker](https://github.com/DDS-Derek/wxchat-Docker) - MoviePilot 微信转发代理
 
-## C
+## Shell
 
 *   [kiddin9/kwrt-packages](https://github.com/kiddin9/kwrt-packages) -
 
-*   [ventoy/Ventoy](https://github.com/ventoy/Ventoy) - A new bootable USB solution.
+*   [NapNeko/NapCat-Docker](https://github.com/NapNeko/NapCat-Docker) - NapCat-Docker
 
-*   [moonlight-stream/moonlight-android](https://github.com/moonlight-stream/moonlight-android) - GameStream client for Android
+*   [RichardLitt/standard-readme](https://github.com/RichardLitt/standard-readme) - A standard style for README files
 
-*   [CHN-beta/rkp-ipid](https://github.com/CHN-beta/rkp-ipid) - Modify ID in IP Header
+*   [RROrg/rr](https://github.com/RROrg/rr) - Redpill Recovery (arpl-i18n)
 
-*   [Zxilly/UA2F](https://github.com/Zxilly/UA2F) - Change User-Agent to F-string on OpenWRT router to prevent being detected.
+*   [stilleshan/frps](https://github.com/stilleshan/frps) - 基于原版 frp 内网穿透服务端 frps 的一键安装卸载脚本和 docker 镜像.支持 Linux 服务器和 docker 等多种环境安装部署.
 
-*   [immortalwrt/immortalwrt](https://github.com/immortalwrt/immortalwrt) - An opensource OpenWrt variant for mainland China users.
+*   [P3TERX/Actions-OpenWrt](https://github.com/P3TERX/Actions-OpenWrt) - A template for building OpenWrt with GitHub Actions | 使用 GitHub Actions 在线云编译 OpenWrt 固件
 
-*   [Lienol/openwrt](https://github.com/Lienol/openwrt) - Lienol's Modified OpenWrt source
-
-*   [fw876/helloworld](https://github.com/fw876/helloworld) -
+*   [mack-a/v2ray-agent](https://github.com/mack-a/v2ray-agent) - Xray、Tuic、hysteria2、sing-box 八合一一键脚本
 
 ## miscellaneous
 
@@ -209,20 +207,6 @@
 
 *   [massgravel/Microsoft-Activation-Scripts](https://github.com/massgravel/Microsoft-Activation-Scripts) - Open-source Windows and Office activator featuring HWID, Ohook, TSforge, KMS38, and Online KMS activation methods, along with advanced troubleshooting.
 
-## Shell
-
-*   [NapNeko/NapCat-Docker](https://github.com/NapNeko/NapCat-Docker) - NapCat-Docker
-
-*   [RichardLitt/standard-readme](https://github.com/RichardLitt/standard-readme) - A standard style for README files
-
-*   [RROrg/rr](https://github.com/RROrg/rr) - Redpill Recovery (arpl-i18n)
-
-*   [stilleshan/frps](https://github.com/stilleshan/frps) - 基于原版 frp 内网穿透服务端 frps 的一键安装卸载脚本和 docker 镜像.支持 Linux 服务器和 docker 等多种环境安装部署.
-
-*   [P3TERX/Actions-OpenWrt](https://github.com/P3TERX/Actions-OpenWrt) - A template for building OpenWrt with GitHub Actions | 使用 GitHub Actions 在线云编译 OpenWrt 固件
-
-*   [mack-a/v2ray-agent](https://github.com/mack-a/v2ray-agent) - Xray、Tuic、hysteria2、sing-box 八合一一键脚本
-
 ## HTML
 
 *   [vernesong/OpenClash](https://github.com/vernesong/OpenClash) - A Clash Client For OpenWrt
@@ -248,6 +232,22 @@
 *   [LIlGG/halo-theme-sakura](https://github.com/LIlGG/halo-theme-sakura) - Halo 版本的樱花🌸主题
 
 *   [dhjddcn/halo-theme-butterfly](https://github.com/dhjddcn/halo-theme-butterfly) - 一个Halo博客主题，Butterfly 🦋
+
+## C
+
+*   [ventoy/Ventoy](https://github.com/ventoy/Ventoy) - A new bootable USB solution.
+
+*   [moonlight-stream/moonlight-android](https://github.com/moonlight-stream/moonlight-android) - GameStream client for Android
+
+*   [CHN-beta/rkp-ipid](https://github.com/CHN-beta/rkp-ipid) - Modify ID in IP Header
+
+*   [Zxilly/UA2F](https://github.com/Zxilly/UA2F) - Change User-Agent to F-string on OpenWRT router to prevent being detected.
+
+*   [immortalwrt/immortalwrt](https://github.com/immortalwrt/immortalwrt) - An opensource OpenWrt variant for mainland China users.
+
+*   [Lienol/openwrt](https://github.com/Lienol/openwrt) - Lienol's Modified OpenWrt source
+
+*   [fw876/helloworld](https://github.com/fw876/helloworld) -
 
 ## Rust
 
