@@ -17,15 +17,15 @@
 *   [JavaScript](#javascript)
 *   [Go](#go)
 *   [Dockerfile](#dockerfile)
-*   [Shell](#shell)
+*   [C](#c)
 *   [miscellaneous](#miscellaneous)
 *   [Vue](#vue)
 *   [Batchfile](#batchfile)
+*   [Shell](#shell)
 *   [HTML](#html)
-*   [C++](#c)
+*   [C++](#c-1)
 *   [PHP](#php)
 *   [CSS](#css)
-*   [C](#c-1)
 *   [Rust](#rust)
 *   [Blade](#blade)
 *   [Java](#java)
@@ -59,7 +59,7 @@
 
 *   [Kuingsmile/PicList](https://github.com/Kuingsmile/PicList) - An image upload and manage tool, base on PicGo
 
-*   [MCSManager/MCSManager](https://github.com/MCSManager/MCSManager) - Quick deployment, distributed, multi-user, modern management panel for Minecraft and Steam game servers  /  支持快速部署，分布式架构，多用户出租，现代化的 Minecraft 和 Steam 游戏服务器管理面板
+*   [MCSManager/MCSManager](https://github.com/MCSManager/MCSManager) - Quick deployment, distributed, multi-user, modern management panel for Minecraft and Steam game servers  /  一键安装，分布式架构，多用户销售，现代化的 Minecraft 和 Steam 游戏服务器管理面板
 
 *   [DIYgod/RSSHub](https://github.com/DIYgod/RSSHub) - 🧡 Everything is RSSible
 
@@ -127,8 +127,6 @@
 
 *   [anuraghazra/github-readme-stats](https://github.com/anuraghazra/github-readme-stats) - :zap: Dynamically generated stats for your github readmes
 
-*   [bia-pain-bache/BPB-Worker-Panel](https://github.com/bia-pain-bache/BPB-Worker-Panel) - A GUI Panel providing Worker subscriptions for VLESS, Trojan and Warp configs alongside chain proxies, offering full DNS, clean IP,  Fragment, Warp, Warp pro and routing settings for cross-platform clients using Amnezia, Wireguard, Sing-box, Clash/Mihomo and Xray cores.
-
 *   [vogler/free-games-claimer](https://github.com/vogler/free-games-claimer) - Automatically claims free games and DLCs on the Epic Games Store, Amazon Prime Gaming and GOG.
 
 *   [zzc10086/grocery\_store](https://github.com/zzc10086/grocery_store) -
@@ -144,6 +142,8 @@
 *   [6dylan6/jdpro](https://github.com/6dylan6/jdpro) -
 
 *   [haiibo/openwrt-packages](https://github.com/haiibo/openwrt-packages) - 常用 OpenWrt 软件包合集，定时自动更新，适用于 Lean 源码
+
+*   [stevenjoezhang/live2d-widget](https://github.com/stevenjoezhang/live2d-widget) - 把萌萌哒的看板娘抱回家 (ノ≧∇≦)ノ | Live2D widget for web platform
 
 ## Go
 
@@ -161,21 +161,23 @@
 
 *   [DDS-Derek/wxchat-Docker](https://github.com/DDS-Derek/wxchat-Docker) - MoviePilot 微信转发代理
 
-## Shell
+## C
 
 *   [kiddin9/kwrt-packages](https://github.com/kiddin9/kwrt-packages) -
 
-*   [NapNeko/NapCat-Docker](https://github.com/NapNeko/NapCat-Docker) - NapCat-Docker
+*   [ventoy/Ventoy](https://github.com/ventoy/Ventoy) - A new bootable USB solution.
 
-*   [RichardLitt/standard-readme](https://github.com/RichardLitt/standard-readme) - A standard style for README files
+*   [moonlight-stream/moonlight-android](https://github.com/moonlight-stream/moonlight-android) - GameStream client for Android
 
-*   [RROrg/rr](https://github.com/RROrg/rr) - Redpill Recovery (arpl-i18n)
+*   [CHN-beta/rkp-ipid](https://github.com/CHN-beta/rkp-ipid) - Modify ID in IP Header
 
-*   [stilleshan/frps](https://github.com/stilleshan/frps) - 基于原版 frp 内网穿透服务端 frps 的一键安装卸载脚本和 docker 镜像.支持 Linux 服务器和 docker 等多种环境安装部署.
+*   [Zxilly/UA2F](https://github.com/Zxilly/UA2F) - Change User-Agent to F-string on OpenWRT router to prevent being detected.
 
-*   [P3TERX/Actions-OpenWrt](https://github.com/P3TERX/Actions-OpenWrt) - A template for building OpenWrt with GitHub Actions | 使用 GitHub Actions 在线云编译 OpenWrt 固件
+*   [immortalwrt/immortalwrt](https://github.com/immortalwrt/immortalwrt) - An opensource OpenWrt variant for mainland China users.
 
-*   [mack-a/v2ray-agent](https://github.com/mack-a/v2ray-agent) - Xray、Tuic、hysteria2、sing-box 八合一一键脚本
+*   [Lienol/openwrt](https://github.com/Lienol/openwrt) - Lienol's Modified OpenWrt source
+
+*   [fw876/helloworld](https://github.com/fw876/helloworld) -
 
 ## miscellaneous
 
@@ -207,6 +209,20 @@
 
 *   [massgravel/Microsoft-Activation-Scripts](https://github.com/massgravel/Microsoft-Activation-Scripts) - Open-source Windows and Office activator featuring HWID, Ohook, TSforge, KMS38, and Online KMS activation methods, along with advanced troubleshooting.
 
+## Shell
+
+*   [NapNeko/NapCat-Docker](https://github.com/NapNeko/NapCat-Docker) - NapCat-Docker
+
+*   [RichardLitt/standard-readme](https://github.com/RichardLitt/standard-readme) - A standard style for README files
+
+*   [RROrg/rr](https://github.com/RROrg/rr) - Redpill Recovery (arpl-i18n)
+
+*   [stilleshan/frps](https://github.com/stilleshan/frps) - 基于原版 frp 内网穿透服务端 frps 的一键安装卸载脚本和 docker 镜像.支持 Linux 服务器和 docker 等多种环境安装部署.
+
+*   [P3TERX/Actions-OpenWrt](https://github.com/P3TERX/Actions-OpenWrt) - A template for building OpenWrt with GitHub Actions | 使用 GitHub Actions 在线云编译 OpenWrt 固件
+
+*   [mack-a/v2ray-agent](https://github.com/mack-a/v2ray-agent) - Xray、Tuic、hysteria2、sing-box 八合一一键脚本
+
 ## HTML
 
 *   [vernesong/OpenClash](https://github.com/vernesong/OpenClash) - A Clash Client For OpenWrt
@@ -232,22 +248,6 @@
 *   [LIlGG/halo-theme-sakura](https://github.com/LIlGG/halo-theme-sakura) - Halo 版本的樱花🌸主题
 
 *   [dhjddcn/halo-theme-butterfly](https://github.com/dhjddcn/halo-theme-butterfly) - 一个Halo博客主题，Butterfly 🦋
-
-## C
-
-*   [ventoy/Ventoy](https://github.com/ventoy/Ventoy) - A new bootable USB solution.
-
-*   [moonlight-stream/moonlight-android](https://github.com/moonlight-stream/moonlight-android) - GameStream client for Android
-
-*   [CHN-beta/rkp-ipid](https://github.com/CHN-beta/rkp-ipid) - Modify ID in IP Header
-
-*   [Zxilly/UA2F](https://github.com/Zxilly/UA2F) - Change User-Agent to F-string on OpenWRT router to prevent being detected.
-
-*   [immortalwrt/immortalwrt](https://github.com/immortalwrt/immortalwrt) - An opensource OpenWrt variant for mainland China users.
-
-*   [Lienol/openwrt](https://github.com/Lienol/openwrt) - Lienol's Modified OpenWrt source
-
-*   [fw876/helloworld](https://github.com/fw876/helloworld) -
 
 ## Rust
 
