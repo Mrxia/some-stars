@@ -61,8 +61,6 @@
 
 *   [yoimiya-kokomi/Miao-Yunzai](https://github.com/yoimiya-kokomi/Miao-Yunzai) - 喵版Yunzai-V3
 
-*   [MHSanaei/3x-ui](https://github.com/MHSanaei/3x-ui) - Xray panel supporting multi-protocol multi-user expire day & traffic & IP limit (Vmess & Vless & Trojan &  ShadowSocks & Wireguard)
-
 *   [6dylan6/jdpro](https://github.com/6dylan6/jdpro) -
 
 *   [haiibo/openwrt-packages](https://github.com/haiibo/openwrt-packages) - 常用 OpenWrt 软件包合集，定时自动更新，适用于 Lean 源码
@@ -70,8 +68,6 @@
 *   [stevenjoezhang/live2d-widget](https://github.com/stevenjoezhang/live2d-widget) - 把萌萌哒的看板娘抱回家 (ノ≧∇≦)ノ | Live2D widget for web platform
 
 ## TypeScript
-
-*   [LunaTechLab/MoonTV](https://github.com/LunaTechLab/MoonTV) - 一个开箱即用的、跨平台的影视聚合播放站
 
 *   [google-gemini/gemini-cli](https://github.com/google-gemini/gemini-cli) - An open-source AI agent that brings the power of Gemini directly into your terminal.
 
@@ -157,6 +153,8 @@
 
 *   [XIU2/CloudflareSpeedTest](https://github.com/XIU2/CloudflareSpeedTest) - 🌩「自选优选 IP」测试 Cloudflare CDN 延迟和速度，获取最快 IP ！当然也支持其他 CDN / 多个解析 IP 的网站 ~
 
+*   [docker/compose](https://github.com/docker/compose) - Define and run multi-container applications with Docker
+
 ## Dockerfile
 
 *   [DDS-Derek/wxchat-Docker](https://github.com/DDS-Derek/wxchat-Docker) - MoviePilot 微信转发代理
@@ -226,6 +224,8 @@
 ## HTML
 
 *   [vernesong/OpenClash](https://github.com/vernesong/OpenClash) - A Clash Client For OpenWrt
+
+*   [MHSanaei/3x-ui](https://github.com/MHSanaei/3x-ui) - Xray panel supporting multi-protocol multi-user expire day & traffic & IP limit (Vmess & Vless & Trojan &  ShadowSocks & Wireguard)
 
 *   [kenzok8/openwrt-packages](https://github.com/kenzok8/openwrt-packages) - openwrt常用软件包
 
