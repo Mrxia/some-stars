@@ -232,8 +232,6 @@
 
 *   [MHSanaei/3x-ui](https://github.com/MHSanaei/3x-ui) - Xray panel supporting multi-protocol multi-user expire day & traffic & IP limit (Vmess, Vless, Trojan, ShadowSocks, Wireguard, Tunnel, Mixed, HTTP)
 
-*   [kenzok8/openwrt-packages](https://github.com/kenzok8/openwrt-packages) - openwrt常用软件包
-
 ## C++
 
 *   [qiin2333/Sunshine-Foundation](https://github.com/qiin2333/Sunshine-Foundation) - Sunshine, a self-hosted game-stream host for Moonlight, now features an HDR-friendly fork that integrates virtual displays and control panels.
@@ -251,6 +249,8 @@
 *   [HappySimple/Typora-theme-Happysimple](https://github.com/HappySimple/Typora-theme-Happysimple) - 一款自制的Markdown主题！
 
 *   [LIlGG/halo-theme-sakura](https://github.com/LIlGG/halo-theme-sakura) - Halo 版本的樱花🌸主题
+
+*   [kenzok8/openwrt-packages](https://github.com/kenzok8/openwrt-packages) - openwrt常用软件包
 
 *   [dhjddcn/halo-theme-butterfly](https://github.com/dhjddcn/halo-theme-butterfly) - 一个Halo博客主题，Butterfly 🦋
 
