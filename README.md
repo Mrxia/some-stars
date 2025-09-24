@@ -10,6 +10,7 @@
 
 ## Table of Contents
 
+*   [Java](#java)
 *   [JavaScript](#javascript)
 *   [Adblock Filter List](#adblock-filter-list)
 *   [TypeScript](#typescript)
@@ -29,8 +30,17 @@
 *   [CSS](#css)
 *   [Rust](#rust)
 *   [Blade](#blade)
-*   [Java](#java)
 *   [C#](#c-2)
+
+## Java
+
+*   [leck995/WutheringWavesTool](https://github.com/leck995/WutheringWavesTool) - 鸣潮助手，鸣潮工具集与启动器，主要功能有获取角色信息，解锁帧率，实现库街区签到，游戏时长统计以及抽卡分析(支持国际服账号)。
+
+*   [halo-dev/halo](https://github.com/halo-dev/halo) - 强大易用的开源建站工具。
+
+*   [Stirling-Tools/Stirling-PDF](https://github.com/Stirling-Tools/Stirling-PDF) - #1 Locally hosted web application that allows you to perform various operations on PDF files
+
+*   [LSPosed/LSPosed](https://github.com/LSPosed/LSPosed) - LSPosed Framework
 
 ## JavaScript
 
@@ -146,8 +156,6 @@
 
 *   [P3TERX/Actions-OpenWrt](https://github.com/P3TERX/Actions-OpenWrt) - A template for building OpenWrt with GitHub Actions | 使用 GitHub Actions 在线云编译 OpenWrt 固件
 
-*   [mack-a/v2ray-agent](https://github.com/mack-a/v2ray-agent) - Xray、Tuic、hysteria2、sing-box 八合一一键脚本
-
 ## Dart
 
 *   [KaringX/clashmi](https://github.com/KaringX/clashmi) - Clash Mihomo for iOS/Android
@@ -261,14 +269,6 @@
 ## Blade
 
 *   [lsky-org/lsky-pro](https://github.com/lsky-org/lsky-pro) - ☁️兰空图床(Lsky Pro) - Your photo album on the cloud.
-
-## Java
-
-*   [halo-dev/halo](https://github.com/halo-dev/halo) - 强大易用的开源建站工具。
-
-*   [Stirling-Tools/Stirling-PDF](https://github.com/Stirling-Tools/Stirling-PDF) - #1 Locally hosted web application that allows you to perform various operations on PDF files
-
-*   [LSPosed/LSPosed](https://github.com/LSPosed/LSPosed) - LSPosed Framework
 
 ## C\#
 
