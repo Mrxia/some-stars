@@ -10,7 +10,7 @@
 
 ## Table of Contents
 
-*   [Java](#java)
+*   [PowerShell](#powershell)
 *   [JavaScript](#javascript)
 *   [Adblock Filter List](#adblock-filter-list)
 *   [TypeScript](#typescript)
@@ -30,17 +30,12 @@
 *   [CSS](#css)
 *   [Rust](#rust)
 *   [Blade](#blade)
+*   [Java](#java)
 *   [C#](#c-2)
 
-## Java
+## PowerShell
 
-*   [leck995/WutheringWavesTool](https://github.com/leck995/WutheringWavesTool) - 鸣潮助手，鸣潮工具集与启动器，主要功能有获取角色信息，解锁帧率，实现库街区签到，游戏时长统计以及抽卡分析(支持国际服账号)。
-
-*   [halo-dev/halo](https://github.com/halo-dev/halo) - 强大易用的开源建站工具。
-
-*   [Stirling-Tools/Stirling-PDF](https://github.com/Stirling-Tools/Stirling-PDF) - #1 Locally hosted web application that allows you to perform various operations on PDF files
-
-*   [LSPosed/LSPosed](https://github.com/LSPosed/LSPosed) - LSPosed Framework
+*   [Raphire/Win11Debloat](https://github.com/Raphire/Win11Debloat) - A simple, lightweight PowerShell script to remove pre-installed apps, disable telemetry, as well as perform various other changes to customize, declutter and improve your Windows experience. Win11Debloat works for both Windows 10 and Windows 11.
 
 ## JavaScript
 
@@ -269,6 +264,14 @@
 ## Blade
 
 *   [lsky-org/lsky-pro](https://github.com/lsky-org/lsky-pro) - ☁️兰空图床(Lsky Pro) - Your photo album on the cloud.
+
+## Java
+
+*   [halo-dev/halo](https://github.com/halo-dev/halo) - 强大易用的开源建站工具。
+
+*   [Stirling-Tools/Stirling-PDF](https://github.com/Stirling-Tools/Stirling-PDF) - #1 Locally hosted web application that allows you to perform various operations on PDF files
+
+*   [LSPosed/LSPosed](https://github.com/LSPosed/LSPosed) - LSPosed Framework
 
 ## C\#
 
