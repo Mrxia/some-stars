@@ -10,6 +10,7 @@
 
 ## Table of Contents
 
+*   [Go](#go)
 *   [JavaScript](#javascript)
 *   [TypeScript](#typescript)
 *   [Python](#python)
@@ -19,7 +20,6 @@
 *   [Shell](#shell)
 *   [Dart](#dart)
 *   [Kotlin](#kotlin)
-*   [Go](#go)
 *   [Dockerfile](#dockerfile)
 *   [C](#c)
 *   [miscellaneous](#miscellaneous)
@@ -31,6 +31,16 @@
 *   [Rust](#rust)
 *   [Blade](#blade)
 *   [Java](#java)
+
+## Go
+
+*   [fish2018/pansou](https://github.com/fish2018/pansou) - PanSou是一款高性能的网盘资源搜索API服务，支持TG频道和插件搜索。系统设计以性能和可扩展性为核心，支持多频道多插件并发搜索、结果智能排序和网盘类型分类。docker集成前后端，一键启动，开箱即用。 https://so.252035.xyz/
+
+*   [usememos/memos](https://github.com/usememos/memos) - An open-source, self-hosted note-taking service. Your thoughts, your data, your control — no tracking, no ads, no subscription fees.
+
+*   [AdguardTeam/AdGuardHome](https://github.com/AdguardTeam/AdGuardHome) - Network-wide ads & trackers blocking DNS server
+
+*   [fatedier/frp](https://github.com/fatedier/frp) - A fast reverse proxy to help you expose a local server behind a NAT or firewall to the internet.
 
 ## JavaScript
 
@@ -182,14 +192,6 @@
 
 *   [JunkFood02/Seal](https://github.com/JunkFood02/Seal) - 🦭 Video/Audio Downloader for Android, based on yt-dlp
 
-## Go
-
-*   [usememos/memos](https://github.com/usememos/memos) - An open-source, self-hosted note-taking service. Your thoughts, your data, your control — no tracking, no ads, no subscription fees.
-
-*   [AdguardTeam/AdGuardHome](https://github.com/AdguardTeam/AdGuardHome) - Network-wide ads & trackers blocking DNS server
-
-*   [fatedier/frp](https://github.com/fatedier/frp) - A fast reverse proxy to help you expose a local server behind a NAT or firewall to the internet.
-
 ## Dockerfile
 
 *   [DDS-Derek/wxchat-Docker](https://github.com/DDS-Derek/wxchat-Docker) - MoviePilot 微信转发代理
@@ -225,8 +227,6 @@
 *   [zhuima/awesome-cloudflare](https://github.com/zhuima/awesome-cloudflare) - ⛅️ 精选的 Cloudflare 工具、开源项目、指南、博客和其他资源列表。/ ⛅️ A curated list of Cloudflare tools, open source projects, guides, blogs and other resources.
 
 *   [Agr-Reader/Agr-Reader](https://github.com/Agr-Reader/Agr-Reader) - Agr Reader is a simple yet elegant and powerful RSS reader for Android, featuring the Material You design style.
-
-*   [chhc007/OneClickXiaoai](https://github.com/chhc007/OneClickXiaoai) - exe一键快速唤醒PC版小爱同学
 
 ## Batchfile
 
