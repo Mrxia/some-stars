@@ -34,7 +34,7 @@
 
 ## TypeScript
 
-*   [flyhunterl/flymd](https://github.com/flyhunterl/flymd) - 告别臃肿、告别卡顿、 告别割裂体验！所见所得 + 源码编辑双模式支持！仅7MB的高性能Markdown编辑器 ！集成AI助手和智能便签待办提醒推送系统！Say goodbye to bloat, lag, and fragmented experience! WYSIWYG + Source Code Editing Dual-Mode Support! Only 7MB High-Performance Markdown Editor! Integrated AI Assistant and Smart To-Do Reminder System!
+*   [flyhunterl/flymd](https://github.com/flyhunterl/flymd) - 仅7MB的高性能Markdown笔记工具！内置免费AI模型，智能生成TODO便签、主动提醒推送、多人协同编辑。毫秒级启动，内存占用极低，短小精悍！  A 7MB high-performance Markdown note tool! Built-in free AI model for smart TODO generation, proactive reminders, and collaborative editing. Lightning-fast startup with minimal memory footprint—compact yet powerful!
 
 *   [CherryHQ/cherry-studio-app](https://github.com/CherryHQ/cherry-studio-app) - 🍒 This is the mobile version of Cherry Studio.
 
@@ -196,7 +196,7 @@
 
 ## Dockerfile
 
-*   [DDS-Derek/wxchat-Docker](https://github.com/DDS-Derek/wxchat-Docker) - MoviePilot 微信转发代理
+*   [DDSRem-Dev/wxchat-Docker](https://github.com/DDSRem-Dev/wxchat-Docker) - MoviePilot 微信转发代理
 
 ## C
 
