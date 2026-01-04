@@ -124,7 +124,7 @@
 
 *   [xiaotian2333/yunzai-plugins-Single-file](https://github.com/xiaotian2333/yunzai-plugins-Single-file) - 轻量级云崽插件仓库
 
-*   [maillab/cloud-mail](https://github.com/maillab/cloud-mail) - Cloud Mail - Simple Email Service on Cloudflare  | 基于 Cloudflare 的简约响应式邮箱服务  | Cloudflare Email 邮箱 Mail
+*   [maillab/cloud-mail](https://github.com/maillab/cloud-mail) - A Cloudflare-based email service  | 基于 Cloudflare 的邮箱服务  | Cloudflare Email 邮箱 Mail
 
 *   [kiddin9/kwrt-packages](https://github.com/kiddin9/kwrt-packages) -
 
