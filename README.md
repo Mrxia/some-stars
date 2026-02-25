@@ -10,6 +10,7 @@
 
 ## Table of Contents
 
+*   [Kotlin](#kotlin)
 *   [TypeScript](#typescript)
 *   [miscellaneous](#miscellaneous)
 *   [Python](#python)
@@ -21,7 +22,6 @@
 *   [Adblock Filter List](#adblock-filter-list)
 *   [Shell](#shell)
 *   [Dart](#dart)
-*   [Kotlin](#kotlin)
 *   [Dockerfile](#dockerfile)
 *   [Batchfile](#batchfile)
 *   [HTML](#html)
@@ -31,6 +31,12 @@
 *   [Rust](#rust)
 *   [Blade](#blade)
 *   [Java](#java)
+
+## Kotlin
+
+*   [Colorful-glassblock/bvcn](https://github.com/Colorful-glassblock/bvcn) - 哔哩哔哩 的第三方 Android 应用。A third-party Android app for Bilibili. But No More China Mainand detection！
+
+*   [JunkFood02/Seal](https://github.com/JunkFood02/Seal) - 🦭 Video/Audio Downloader for Android, based on yt-dlp
 
 ## TypeScript
 
@@ -216,10 +222,6 @@
 
 *   [lollipopkit/flutter\_server\_box](https://github.com/lollipopkit/flutter_server_box) - ServerBox - server status & toolbox
 
-## Kotlin
-
-*   [JunkFood02/Seal](https://github.com/JunkFood02/Seal) - 🦭 Video/Audio Downloader for Android, based on yt-dlp
-
 ## Dockerfile
 
 *   [DDSRem-Dev/wxchat-Docker](https://github.com/DDSRem-Dev/wxchat-Docker) - MoviePilot 微信转发代理
@@ -259,8 +261,6 @@
 *   [immortalwrt/immortalwrt](https://github.com/immortalwrt/immortalwrt) - An opensource OpenWrt variant for mainland China users.
 
 *   [Lienol/openwrt](https://github.com/Lienol/openwrt) - Lienol's Modified OpenWrt source
-
-*   [fw876/helloworld](https://github.com/fw876/helloworld) -
 
 ## Rust
 
