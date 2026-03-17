@@ -104,8 +104,6 @@
 
 *   [xushier/HD-Icons](https://github.com/xushier/HD-Icons) - 高清仪表盘图标（1024x1024 分辨率）
 
-*   [snailyp/gemini-balance](https://github.com/snailyp/gemini-balance) - Gemini polling proxy service （gemini轮询代理服务）
-
 *   [ok-oldking/ok-wuthering-waves](https://github.com/ok-oldking/ok-wuthering-waves) - 鸣潮 后台自动战斗 自动刷声骸 一键日常  Automation for Wuthering Waves
 
 *   [hect0x7/JMComic-APK](https://github.com/hect0x7/JMComic-APK) - 防迷路 | 禁漫天堂APK | 禁漫APP安卓安装包 | jm天堂 | GitHub Actions | JMComic3 | JMComic2
@@ -216,6 +214,8 @@
 
 *   [stilleshan/frps](https://github.com/stilleshan/frps) - 基于原版 frp 内网穿透服务端 frps 的一键安装卸载脚本和 docker 镜像.支持 Linux 服务器和 docker 等多种环境安装部署.
 
+*   [P3TERX/Actions-OpenWrt](https://github.com/P3TERX/Actions-OpenWrt) - A template for building OpenWrt with GitHub Actions | 使用 GitHub Actions 在线云编译 OpenWrt 固件
+
 ## Dart
 
 *   [KaringX/clashmi](https://github.com/KaringX/clashmi) - Clash Mihomo for iOS/MacOS/Android/Windows/Linux
@@ -260,11 +260,11 @@
 
 *   [CHN-beta/rkp-ipid](https://github.com/CHN-beta/rkp-ipid) - Modify ID in IP Header
 
-*   [Zxilly/UA2F](https://github.com/Zxilly/UA2F) - Change User-Agent to F-string on OpenWRT router to prevent being detected.
-
 *   [immortalwrt/immortalwrt](https://github.com/immortalwrt/immortalwrt) - An opensource OpenWrt variant for mainland China users.
 
 *   [Lienol/openwrt](https://github.com/Lienol/openwrt) - Lienol's Modified OpenWrt source
+
+*   [fw876/helloworld](https://github.com/fw876/helloworld) -
 
 ## Rust
 
