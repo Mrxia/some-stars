@@ -62,7 +62,7 @@
 
 *   [zuoban/tts](https://github.com/zuoban/tts) - tts 服务
 
-*   [RSSNext/Folo](https://github.com/RSSNext/Folo) - 🧡 Folo is the AI Reader
+*   [RSSNext/Folo](https://github.com/RSSNext/Folo) - 🧡 Folo is the AI RSS Reader
 
 *   [ourongxing/newsnow](https://github.com/ourongxing/newsnow) - Elegant reading of real-time and hottest news
 
