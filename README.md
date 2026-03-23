@@ -106,7 +106,7 @@
 
 *   [ok-oldking/ok-wuthering-waves](https://github.com/ok-oldking/ok-wuthering-waves) - 鸣潮 后台自动战斗 自动刷声骸 一键日常  Automation for Wuthering Waves
 
-*   [hect0x7/JMComic-APK](https://github.com/hect0x7/JMComic-APK) - 防迷路 | 禁漫天堂APK | 禁漫APP安卓安装包 | jm天堂 | GitHub Actions | JMComic3 | JMComic2
+*   [hect0x7/JMComic-APK](https://github.com/hect0x7/JMComic-APK) - 防迷路 | 禁漫天堂APK | 禁漫APP安卓安装包 | jm天堂 | 回家 | GitHub Actions | JMComic3 | JMComic2
 
 *   [jxxghp/MoviePilot](https://github.com/jxxghp/MoviePilot) - NAS媒体库自动化管理工具
 
