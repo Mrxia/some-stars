@@ -210,7 +210,7 @@
 - [infinitered/nsfwjs](https://github.com/infinitered/nsfwjs) - NSFW detection on the client-side via TensorFlow.js
 - [iptv-org/iptv](https://github.com/iptv-org/iptv) - Collection of publicly available IPTV channels from all over the world
 - [MCSManager/MCSManager](https://github.com/MCSManager/MCSManager) - Quick deployment, distributed, multi-user, modern management panel for Minecraft and Steam game servers  /  快速安装，分布式架构，多用户，现代化的 Minecraft 和 Steam 游戏服务器管理面板
-- [ourongxing/newsnow](https://github.com/ourongxing/newsnow) - Elegant reading of real-time and hottest news
+- [newsnext/newsnow](https://github.com/newsnext/newsnow) - Elegant reading of real-time and hottest news
 - [pt-plugins/PT-depiler](https://github.com/pt-plugins/PT-depiler) - PT-depiler 是在原 PT-Plugin-Plus 基础上， 基于浏览器最新的 Manifest v3 标准开发的一款浏览器插件（Web Extensions）， 一个可以提升 PT 站点使用效率的工具。
 - [RSSNext/Folo](https://github.com/RSSNext/Folo) - 🧡 Folo is the AI RSS Reader
 - [stevenjoezhang/live2d-widget](https://github.com/stevenjoezhang/live2d-widget) - 把萌萌哒的看板娘抱回家 (ノ≧∇≦)ノ | Live2D widget for web platform
