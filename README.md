@@ -210,6 +210,7 @@
 - [Kuingsmile/PicList](https://github.com/Kuingsmile/PicList) - An image upload and manage tool, base on PicGo
 - [MCSManager/MCSManager](https://github.com/MCSManager/MCSManager) - Quick deployment, distributed, multi-user, modern management panel for Minecraft and Steam game servers  /  快速安装，分布式架构，多用户，现代化的 Minecraft 和 Steam 游戏服务器管理面板
 - [miantiao-me/Sink](https://github.com/miantiao-me/Sink) - ⚡ A Simple, Speedy, Secure, and Serverless Link Shortener with Analytics, Running Entirely on Cloudflare.
+- [newbietan/CloudSSH](https://github.com/newbietan/CloudSSH) - Serverless Web SSH client built on Cloudflare Workers with a pure TypeScript SSH stack, multi-session terminals, SFTP file management, and an AI operations assistant. 基于 Cloudflare Workers 的无服务器 Web SSH 客户端，支持多会话终端、SFTP 文件管理与 AI 运维助手。
 - [newsnext/newsnow](https://github.com/newsnext/newsnow) - Elegant reading of real-time and hottest news
 - [OpenListTeam/OpenList-Worker](https://github.com/OpenListTeam/OpenList-Worker) - Service Worker for OpenList
 - [pt-plugins/PT-depiler](https://github.com/pt-plugins/PT-depiler) - PT-depiler 是在原 PT-Plugin-Plus 基础上， 基于浏览器最新的 Manifest v3 标准开发的一款浏览器插件（Web Extensions）， 一个可以提升 PT 站点使用效率的工具。
